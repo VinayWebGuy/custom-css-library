@@ -1,0 +1,42 @@
+/* Flex */
+._flex {
+    display: flex;
+  }
+  ._justify-center {
+    justify-content: center;
+  }
+  ._justify-space-between {
+    justify-content: space-between;
+  }
+  ._justify-space-around {
+    justify-content: space-around;
+  }
+  ._justify-space-evenly {
+    justify-content: space-evenly;
+  }
+  ._justify-start {
+    justify-content: flex-start;
+  }
+  ._justify-end {
+    justify-content: flex-end;
+  }
+  ._align-center {
+    align-items: center;
+  }
+  ._align-start {
+    align-items: flex-start;
+  }
+  ._align-end {
+    align-items: flex-end;
+  }
+  ._flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  ._body-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }

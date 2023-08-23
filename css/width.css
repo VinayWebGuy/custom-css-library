@@ -1,0 +1,602 @@
+/* Width */
+._w1 {
+  width: 1px;
+}
+._w2 {
+  width: 2px;
+}
+._w3 {
+  width: 3px;
+}
+._w4 {
+  width: 4px;
+}
+._w5 {
+  width: 5px;
+}
+._w6 {
+  width: 6px;
+}
+._w7 {
+  width: 7px;
+}
+._w8 {
+  width: 8px;
+}
+._w9 {
+  width: 9px;
+}
+._w10 {
+  width: 10px;
+}
+._w11 {
+  width: 11px;
+}
+._w12 {
+  width: 12px;
+}
+._w13 {
+  width: 13px;
+}
+._w14 {
+  width: 14px;
+}
+._w15 {
+  width: 15px;
+}
+._w16 {
+  width: 16px;
+}
+._w17 {
+  width: 17px;
+}
+._w18 {
+  width: 18px;
+}
+._w19 {
+  width: 19px;
+}
+._w20 {
+  width: 20px;
+}
+._w21 {
+  width: 21px;
+}
+._w22 {
+  width: 22px;
+}
+._w23 {
+  width: 23px;
+}
+._w24 {
+  width: 24px;
+}
+._w25 {
+  width: 25px;
+}
+._w26 {
+  width: 26px;
+}
+._w27 {
+  width: 27px;
+}
+._w28 {
+  width: 28px;
+}
+._w29 {
+  width: 29px;
+}
+._w30 {
+  width: 30px;
+}
+._w31 {
+  width: 31px;
+}
+._w32 {
+  width: 32px;
+}
+._w33 {
+  width: 33px;
+}
+._w34 {
+  width: 34px;
+}
+._w35 {
+  width: 35px;
+}
+._w36 {
+  width: 36px;
+}
+._w37 {
+  width: 37px;
+}
+._w38 {
+  width: 38px;
+}
+._w39 {
+  width: 39px;
+}
+._w40 {
+  width: 40px;
+}
+._w41 {
+  width: 41px;
+}
+._w42 {
+  width: 42px;
+}
+._w43 {
+  width: 43px;
+}
+._w44 {
+  width: 44px;
+}
+._w45 {
+  width: 45px;
+}
+._w46 {
+  width: 46px;
+}
+._w47 {
+  width: 47px;
+}
+._w48 {
+  width: 48px;
+}
+._w49 {
+  width: 49px;
+}
+._w50 {
+  width: 50px;
+}
+._w51 {
+  width: 51px;
+}
+._w52 {
+  width: 52px;
+}
+._w53 {
+  width: 53px;
+}
+._w54 {
+  width: 54px;
+}
+._w55 {
+  width: 55px;
+}
+._w56 {
+  width: 56px;
+}
+._w57 {
+  width: 57px;
+}
+._w58 {
+  width: 58px;
+}
+._w59 {
+  width: 59px;
+}
+._w60 {
+  width: 60px;
+}
+._w61 {
+  width: 61px;
+}
+._w62 {
+  width: 62px;
+}
+._w63 {
+  width: 63px;
+}
+._w64 {
+  width: 64px;
+}
+._w65 {
+  width: 65px;
+}
+._w66 {
+  width: 66px;
+}
+._w67 {
+  width: 67px;
+}
+._w68 {
+  width: 68px;
+}
+._w69 {
+  width: 69px;
+}
+._w70 {
+  width: 70px;
+}
+._w71 {
+  width: 71px;
+}
+._w72 {
+  width: 72px;
+}
+._w73 {
+  width: 73px;
+}
+._w74 {
+  width: 74px;
+}
+._w75 {
+  width: 75px;
+}
+._w76 {
+  width: 76px;
+}
+._w77 {
+  width: 77px;
+}
+._w78 {
+  width: 78px;
+}
+._w79 {
+  width: 79px;
+}
+._w80 {
+  width: 80px;
+}
+._w81 {
+  width: 81px;
+}
+._w82 {
+  width: 82px;
+}
+._w83 {
+  width: 83px;
+}
+._w84 {
+  width: 84px;
+}
+._w85 {
+  width: 85px;
+}
+._w86 {
+  width: 86px;
+}
+._w87 {
+  width: 87px;
+}
+._w88 {
+  width: 88px;
+}
+._w89 {
+  width: 89px;
+}
+._w90 {
+  width: 90px;
+}
+._w91 {
+  width: 91px;
+}
+._w92 {
+  width: 92px;
+}
+._w93 {
+  width: 93px;
+}
+._w94 {
+  width: 94px;
+}
+._w95 {
+  width: 95px;
+}
+._w96 {
+  width: 96px;
+}
+._w97 {
+  width: 97px;
+}
+._w98 {
+  width: 98px;
+}
+._w99 {
+  width: 99px;
+}
+._w100 {
+  width: 100px;
+}
+
+._w1-vw {
+  width: 1vw;
+}
+._w2-vw {
+  width: 2vw;
+}
+._w3-vw {
+  width: 3vw;
+}
+._w4-vw {
+  width: 4vw;
+}
+._w5-vw {
+  width: 5vw;
+}
+._w6-vw {
+  width: 6vw;
+}
+._w7-vw {
+  width: 7vw;
+}
+._w8-vw {
+  width: 8vw;
+}
+._w9-vw {
+  width: 9vw;
+}
+._w10-vw {
+  width: 10vw;
+}
+._w11-vw {
+  width: 11vw;
+}
+._w12-vw {
+  width: 12vw;
+}
+._w13-vw {
+  width: 13vw;
+}
+._w14-vw {
+  width: 14vw;
+}
+._w15-vw {
+  width: 15vw;
+}
+._w16-vw {
+  width: 16vw;
+}
+._w17-vw {
+  width: 17vw;
+}
+._w18-vw {
+  width: 18vw;
+}
+._w19-vw {
+  width: 19vw;
+}
+._w20-vw {
+  width: 20vw;
+}
+._w21-vw {
+  width: 21vw;
+}
+._w22-vw {
+  width: 22vw;
+}
+._w23-vw {
+  width: 23vw;
+}
+._w24-vw {
+  width: 24vw;
+}
+._w25-vw {
+  width: 25vw;
+}
+._w26-vw {
+  width: 26vw;
+}
+._w27-vw {
+  width: 27vw;
+}
+._w28-vw {
+  width: 28vw;
+}
+._w29-vw {
+  width: 29vw;
+}
+._w30-vw {
+  width: 30vw;
+}
+._w31-vw {
+  width: 31vw;
+}
+._w32-vw {
+  width: 32vw;
+}
+._w33-vw {
+  width: 33vw;
+}
+._w34-vw {
+  width: 34vw;
+}
+._w35-vw {
+  width: 35vw;
+}
+._w36-vw {
+  width: 36vw;
+}
+._w37-vw {
+  width: 37vw;
+}
+._w38-vw {
+  width: 38vw;
+}
+._w39-vw {
+  width: 39vw;
+}
+._w40-vw {
+  width: 40vw;
+}
+._w41-vw {
+  width: 41vw;
+}
+._w42-vw {
+  width: 42vw;
+}
+._w43-vw {
+  width: 43vw;
+}
+._w44-vw {
+  width: 44vw;
+}
+._w45-vw {
+  width: 45vw;
+}
+._w46-vw {
+  width: 46vw;
+}
+._w47-vw {
+  width: 47vw;
+}
+._w48-vw {
+  width: 48vw;
+}
+._w49-vw {
+  width: 49vw;
+}
+._w50-vw {
+  width: 50vw;
+}
+._w51-vw {
+  width: 51vw;
+}
+._w52-vw {
+  width: 52vw;
+}
+._w53-vw {
+  width: 53vw;
+}
+._w54-vw {
+  width: 54vw;
+}
+._w55-vw {
+  width: 55vw;
+}
+._w56-vw {
+  width: 56vw;
+}
+._w57-vw {
+  width: 57vw;
+}
+._w58-vw {
+  width: 58vw;
+}
+._w59-vw {
+  width: 59vw;
+}
+._w60-vw {
+  width: 60vw;
+}
+._w61-vw {
+  width: 61vw;
+}
+._w62-vw {
+  width: 62vw;
+}
+._w63-vw {
+  width: 63vw;
+}
+._w64-vw {
+  width: 64vw;
+}
+._w65-vw {
+  width: 65vw;
+}
+._w66-vw {
+  width: 66vw;
+}
+._w67-vw {
+  width: 67vw;
+}
+._w68-vw {
+  width: 68vw;
+}
+._w69-vw {
+  width: 69vw;
+}
+._w70-vw {
+  width: 70vw;
+}
+._w71-vw {
+  width: 71vw;
+}
+._w72-vw {
+  width: 72vw;
+}
+._w73-vw {
+  width: 73vw;
+}
+._w74-vw {
+  width: 74vw;
+}
+._w75-vw {
+  width: 75vw;
+}
+._w76-vw {
+  width: 76vw;
+}
+._w77-vw {
+  width: 77vw;
+}
+._w78-vw {
+  width: 78vw;
+}
+._w79-vw {
+  width: 79vw;
+}
+._w80-vw {
+  width: 80vw;
+}
+._w81-vw {
+  width: 81vw;
+}
+._w82-vw {
+  width: 82vw;
+}
+._w83-vw {
+  width: 83vw;
+}
+._w84-vw {
+  width: 84vw;
+}
+._w85-vw {
+  width: 85vw;
+}
+._w86-vw {
+  width: 86vw;
+}
+._w87-vw {
+  width: 87vw;
+}
+._w88-vw {
+  width: 88vw;
+}
+._w89-vw {
+  width: 89vw;
+}
+._w90-vw {
+  width: 90vw;
+}
+._w91-vw {
+  width: 91vw;
+}
+._w92-vw {
+  width: 92vw;
+}
+._w93-vw {
+  width: 93vw;
+}
+._w94-vw {
+  width: 94vw;
+}
+._w95-vw {
+  width: 95vw;
+}
+._w96-vw {
+  width: 96vw;
+}
+._w97-vw {
+  width: 97vw;
+}
+._w98-vw {
+  width: 98vw;
+}
+._w99-vw {
+  width: 99vw;
+}
+._w100-vw {
+  width: 100vw;
+}
