@@ -1,14 +1,1 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Poppins';
-  }
-  .code{
-    font-family: consolas !important;
-  }
-  .code:not(._text-silver){
-    cursor: pointer;
-    user-select: none;
-  }
+@import url(https://fonts.googleapis.com/css2?family=Poppins&display=swap);*{margin:0;padding:0;box-sizing:border-box;font-family:Poppins}.code{font-family:consolas!important}.code:not(._text-silver){cursor:pointer;user-select:none}
